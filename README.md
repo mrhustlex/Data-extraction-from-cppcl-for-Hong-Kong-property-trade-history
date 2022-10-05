@@ -1,5 +1,7 @@
 # Data-extraction-from-cppcl-for-Hong-Kong-property-trade-history
 
+This is only for learning purpose, not for business
+
 # -*- coding: utf-8 -*-
 """housing_price.ipynb
 
